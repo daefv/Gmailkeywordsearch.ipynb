@@ -30,3 +30,13 @@ The program should run in less than a minute assuming you are not purposely tryi
 
 I used this program to find out that The keyword "review" appears 231 time(s) in the body of the latest 150 email messages.
 which is ludacris, annoying and i hate when vendors solict reviews from me.
+
+Why do this when you can use the search bar in gmail? 
+I am also building off this program to create a software product that detects if a non-FBA vendor is soliciting reviews from customers via Email (in reward for $25 gift cards) 
+these vendors are in violation of the Amazon Terms of Service and solicting reviews  makes for a less transparent, less diverse
+and more monopolized market place.
+
+
+doing it like this allows me to set constraints on how many emails I want to check. This is important for rerunning the program multiple times over the course of some time, to see if an keyword instance still exists, allowing for the creation of a list of vendor email accounts who continue to solict reviews
+
+
