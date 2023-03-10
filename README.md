@@ -2,7 +2,7 @@
 this code works in google colab for python. 
 This code logs in to a Gmail account using IMAP, selects the inbox folder, and searches for the specified keyword in the body of the latest 150 email messages. For each email message that contains the keyword, it extracts the email address of the sender and adds it to a set of unique email addresses. Finally, it prints the unique email addresses of the senders whose emails contain the keyword.
 
-what is an app password for gmail and how do i get it? (please note, the App password 'yhtkxorkkrsydbfv' used in the code was once the correct App password, used to demonstrate what the output of the code will look like. It is no longer the App password to email account '5291ccc@gmail,' so using them in combination will return an authenication error. Please use your own email adress and App password)
+what is an app password for gmail and how do i get it? (please note, the App password used in the code was once the correct App password, used to demonstrate what the output of the code will look like. It is no longer the App password to email account '5291ccc@gmail,' so using them in combination will return an authenication error. Please use your own email adress and App password)
 
 
 An app password is a unique password that allows you to access your Gmail account from third-party apps that do not support two-factor authentication. 
