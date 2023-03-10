@@ -1,4 +1,4 @@
-# Gmail keyword search.ipynb
+# Gmail-keyword-search.ipynb
 this code works in google colab for python. 
 This code logs in to a Gmail account using IMAP, selects the inbox folder, and searches for the specified keyword in the body of the latest 150 email messages. For each email message that contains the keyword, it extracts the email address of the sender and adds it to a set of unique email addresses. Finally, it prints the unique email addresses of the senders whose emails contain the keyword.
 
