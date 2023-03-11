@@ -3,7 +3,7 @@
 This code searches a Gmail inbox for a specified keyword in the body of the latest specified number of emails. It then extracts unique email senders of emails that contain the specified keyword and stores them in a Pandas DataFrame which is exported to an Excel file. The user is prompted to enter their email address, app password, keyword to search, and number of emails to search through. The program then logs in to the specified Gmail account using the provided credentials, selects the inbox folder, and retrieves the latest specified number of email messages from the inbox. For each email, it parses the email message and extracts the sender's email address. If the email body contains the specified keyword, the email address is added to a set of unique senders. Finally, the set of unique sender email addresses is converted into a Pandas DataFrame which is exported to an Excel file.
 
 
-### Setup
+## Setup
 
 Before you can run the script, make sure you have installed the following libraries that Python uses to interact with email servers:
 `email`,
@@ -40,7 +40,10 @@ The program should run in less than a minute assuming you are not purposely tryi
 I used this program to find out that The keyword "review" appears 231 time(s) in the body of the latest 150 email messages.
 which is ludacris, annoying and i hate when vendors solict reviews from me.
 
-Why do this when you can use the search bar in gmail? 
+## sender_emails.xlsx
+This is the file created by the program. An exmaple file can be found beneath the actual code. The EXCEL file is stored in the same place where the program is stored. Check your file folder on the left side of where you ran the program. Then click the file, download it, and open it in EXCEL
+
+## Why do this when you can use the search bar in gmail? 
 I am also building off this program to create a software product that detects if a non-FBA vendor is soliciting reviews from customers via Email (in reward for $25 gift cards) 
 these vendors are in violation of the Amazon Terms of Service and solicting reviews  makes for a less transparent, less diverse
 and more monopolized market place.
