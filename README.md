@@ -52,4 +52,11 @@ and more monopolized market place.
 
 doing it like this allows me to set constraints on how many emails I want to check. This is important for rerunning the program multiple times over the course of some time, to see if an keyword instance still exists, allowing for the creation of a list of vendor email accounts who continue to solict reviews
 
+## APP PASSWORD
+<img width="1416" alt="Screen Shot 2023-03-11 at 11 28 15 AM" src="https://user-images.githubusercontent.com/127538197/224495994-7d83a98c-3460-4103-abb8-a4ed0a3795bf.png">
 
+## OUTPUT
+<img width="847" alt="Screen Shot 2023-03-11 at 11 33 49 AM" src="https://user-images.githubusercontent.com/127538197/224496254-75421d86-968b-4877-9e09-48980cd295fb.png">
+
+## FILE LOCATION
+<img width="335" alt="Screen Shot 2023-03-11 at 11 35 05 AM" src="https://user-images.githubusercontent.com/127538197/224496315-cc9bd198-3d51-4933-a4fb-24e53f2084bb.png">
