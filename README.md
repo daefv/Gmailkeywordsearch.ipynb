@@ -11,7 +11,8 @@ Before you can run the script, make sure you have installed the following librar
 `re`. 
 
 
-what is an app password for gmail and how do i get it? 
+# what is an app password for gmail and how do i get it? 
+
 (please note, the App password used in the code was once the correct App password, used to demonstrate what the output of the code will look like. It is no longer the App password to email account '5291ccc@gmail,' so using them in combination will return an authenication error. Please use your own email adress and App password)
 
 
