@@ -1,4 +1,4 @@
-# GMAIL_TO_EXCEL_KEYWORD_SENDER_LIST
+# Lights
 ## FLOWCHART
 <img width="326" alt="Screen Shot 2023-03-11 at 11 45 36 AM" src="https://user-images.githubusercontent.com/127538197/224496820-bd4130af-b909-42bb-9189-6ad14feae2f0.png">
 
