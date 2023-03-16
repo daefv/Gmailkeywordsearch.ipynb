@@ -6,24 +6,6 @@
 ## FLOWCHART
 <img width="326" alt="Screen Shot 2023-03-11 at 11 45 36 AM" src="https://user-images.githubusercontent.com/127538197/224496820-bd4130af-b909-42bb-9189-6ad14feae2f0.png">
 
-
-## SETUP
-
-REQUIRED:
-`email`,
-`imaplib` and
-`re`. 
-
-## sender_emails.xlsx
-The EXCEL file is stored in the same place where the program is stored. Check your file folder on the left side of where you ran the program. Then click the file, download it, and open it in EXCEL
-
-
-
-## Why do this when you can use the search bar in gmail? 
-doing it like this allows me to set constraints on how many emails I want to check. This is important for rerunning the program multiple times over the course of some time, to see if an keyword instance still exists.
-
-
-
 ## APP PASSWORD
 <img width="1416" alt="Screen Shot 2023-03-11 at 11 28 15 AM" src="https://user-images.githubusercontent.com/127538197/224495994-7d83a98c-3460-4103-abb8-a4ed0a3795bf.png">
 
