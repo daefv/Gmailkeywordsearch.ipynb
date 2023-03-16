@@ -1,4 +1,8 @@
 # Lights
+## FRONT END
+<img width="1440" alt="Screen Shot 2023-03-16 at 5 02 29 PM" src="https://user-images.githubusercontent.com/127538197/225752424-317035f0-7421-47c7-a84a-f690f4be2cc7.png">
+
+
 ## FLOWCHART
 <img width="326" alt="Screen Shot 2023-03-11 at 11 45 36 AM" src="https://user-images.githubusercontent.com/127538197/224496820-bd4130af-b909-42bb-9189-6ad14feae2f0.png">
 
