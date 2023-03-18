@@ -1,4 +1,13 @@
 # Lights
+
+## Running the application
+
+1. Install Flask using `pip install flask`
+2. Run the main.py file with `python3 main.py`
+3. Open your browser at [localhost:5000](http://localhost:5000/)
+
+---
+
 ## FRONT END
 <img width="1440" alt="Screen Shot 2023-03-16 at 5 02 29 PM" src="https://user-images.githubusercontent.com/127538197/225752424-317035f0-7421-47c7-a84a-f690f4be2cc7.png">
 
