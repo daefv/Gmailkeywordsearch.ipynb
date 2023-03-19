@@ -1,4 +1,9 @@
 # Lights
+## Please view the following clip:
+## [Lights demo clip.zip](https://github.com/daefv/Lights/files/11011487/Lights.demo.clip.zip)
+
+___
+---
 
 ## Running the application
 
@@ -18,7 +23,6 @@
 14. The Site will open and you can run the program.
 ---
 
-[Lights demo clip.zip](https://github.com/daefv/Lights/files/11011487/Lights.demo.clip.zip)
 
 ---
 
