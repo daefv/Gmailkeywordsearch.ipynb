@@ -154,7 +154,7 @@ def generate_excel_file(
     )
 
     # export the unique sender email addresses to an Excel file
-    export_sender_emails_to_excel(sender_set)
+    export_sender_emails_to_excel(sender_set, filepath)
 
 
 if __name__ == "__main__":

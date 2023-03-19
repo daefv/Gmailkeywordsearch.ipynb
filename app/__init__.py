@@ -34,19 +34,20 @@ def download():
         Path(app.instance_path).mkdir(parents=True, exist_ok=True)
 
         # remove old excel file
-        Path(f"{app.instance_path}/sender_emails.xlsx").unlink(missing_ok=True)
+        filepath = f"{app.instance_path}/sender_emails.xlsx"
+        Path(filepath).unlink(missing_ok=True)
 
         # create excel
         generate_excel_file(
-            email_address=values.get("email"),
-            password=values.get("app_password"),
-            keyword_to_search=values.get("keyword"),
-            emails_to_search=values.get("amount"),
-            filepath=f"{app.instance_path}/sender_emails.xlsx",
+            email_address=str(values.get("email")),
+            password=str(values.get("app_password")),
+            keyword_to_search=str(values.get("keyword")),
+            emails_to_search=int(values.get("amount", 10)),
+            filepath=filepath,
         )
 
         # return excel for download
-        return send_from_directory(".", "sender_emails.xlsx")
+        return send_from_directory(app.instance_path, "sender_emails.xlsx")
 
     except Exception as exc:
         return redirect(url_for("index", error=str(exc)))
